@@ -6,8 +6,6 @@ import org.apache.ibatis.annotations.*;
 
 import java.util.List;
 
-https://github.com/AriaJK/Second-hand-market.git
-
 @Mapper
 public interface ProductMapper {
 
