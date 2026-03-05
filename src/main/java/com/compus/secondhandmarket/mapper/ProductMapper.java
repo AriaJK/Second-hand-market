@@ -1,7 +1,8 @@
-package com.compus.secondhandmarket.Mapper;
+package com.compus.secondhandmarket.mapper;
 
+import com.compus.secondhandmarket.dto.ProductQueryDTO;
 import com.compus.secondhandmarket.entity.Product;
-import com.compus.secondhandmarket.entity.ProductQueryDTO;
+
 import org.apache.ibatis.annotations.*;
 
 import java.util.List;

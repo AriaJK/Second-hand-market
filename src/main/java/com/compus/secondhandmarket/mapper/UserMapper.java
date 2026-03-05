@@ -1,4 +1,4 @@
-package com.compus.secondhandmarket.Mapper.XML;
+package com.compus.secondhandmarket.mapper;
 
 import com.compus.secondhandmarket.entity.User;
 import org.apache.ibatis.annotations.*;
